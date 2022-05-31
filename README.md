@@ -1,6 +1,6 @@
 ### QR-Gen
 #### Generate all things you want into QRcode.
-It's a small python program that I've created.
+It's a small python program that I've created as python begginer. So don't mind my code if it look so stupid.
 
 It can do:
 
